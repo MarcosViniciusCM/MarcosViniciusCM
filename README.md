@@ -31,15 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)
-
----
-
-## 🚀 Featured Projects
-- 🎶 **AI + Music** – Experiments with Python and signal processing for creative audio applications  
-- 🌐 **Web Development** – Projects combining frontend and backend technologies  
+## 🚀 Featured Projects 
 - 🐧 **Open Source Contributions** – Exploring projects related to **digital autonomy** and **software freedom**  
 
 ---
